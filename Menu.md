@@ -44,6 +44,27 @@
 | 1. | Burger z pastrami własnej produkcji/ pieczarki/ cebula/ papryka/ sos aioli        | 39zł   |
 | 2. | Burger z sezonowaną wołowiną/ pikle/ pomidor/ sałaty mieszane/ boczek grillowany/sos blue        |42zł      |
 
+## Pizza wegetariańska
+
+<img src=zaliczenie_github/pexels-vincent-rivaud-2471171.jpg width=150>
+
+|Lp.| Danie | Cena | 
+|---|-------|------|
+|1.| WEGE (sos pomidorowy, ser mozzarella, suszone pomidory, szpinak baby, brokuł, kukurydza) | 32zł |
+|2.| GRECKA (sos pomidorowy, ser, oliwki, feta) | 34zł|
+|3.| TONNO (sos pomidorowy, mozzarella, oliwki, czerwona cebula, kapary) | 38zł|
+
+## Sałatki
+
+<img src=zaliczenie_github/pexels-julie-aagaard-2097090.jpg width=150>
+
+|Lp. | Sałatka | Cena | 
+|----|---------|------|
+|1.| Burrata/ truskawki/ pistacje/ pomidory kolorowe/ vinaigrett | 43zł |
+|2. | Cezar/ kurczak zagrodowy/ sałata rzymska/ grzanki/ sos anchois/ parmezan | 39 zł |
+|3. | Grillowana polędwica wołowa/ sałaty mieszane/ suszone pomidory/ kapary/ marynowana cukinia/ parmezan | 47 zł |
+
+
 ## Napoje 
 
 <img src = zaliczenie_github/pexels-evg-kowalievska-1187766.jpg width=150>
