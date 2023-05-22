@@ -12,8 +12,8 @@
 |4.| VESUVIO (sos pomidorowy, ser, szynka, cebula)          |         | 23zł | 27zł|
 |5.| MILANO (sos pomidorowy, ser, szynka, papryka, oregano) |         | 26zł | 30zł|
 |6.| NDUJA PICANTE (sos pomidorowy, ser mozzarella, nduja piccante)|  | 29zł | 35zł|
-|4.| QUATRO FORMAGGI (sos pomidorowy, ser mozzarella, parmezan, ser lazur, kozi ser) | | 30zł | 36zł|
-|5.| BURRATA FRESCA (sos pomidorowy, burrata, pomidorki cherry, bazylia) | | 32zł | 38zł|
+|7.| QUATRO FORMAGGI (sos pomidorowy, ser mozzarella, parmezan, ser lazur, kozi ser) | | 30zł | 36zł|
+|8.| BURRATA FRESCA (sos pomidorowy, burrata, pomidorki cherry, bazylia) | | 32zł | 38zł|
 
 ## Pizza Bianca
 
