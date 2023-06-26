@@ -1,2 +1,2 @@
 # pizzeriaCDV
-Projekt zaliczeniowy
+Ten plik należy do gałęzi main
